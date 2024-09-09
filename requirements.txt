@@ -1,0 +1,10 @@
+psycopg[binary]
+torch
+python-dotenv
+pgvector
+Pillow
+tqdm
+transformers
+python-opencv
+imagehash
+pdqhash
